@@ -76,4 +76,4 @@ With this setup, onboarding becomes faster, more consistent, and less error-pron
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE] (LICENSE) file for more details.
